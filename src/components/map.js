@@ -51,7 +51,7 @@ export default class VectorLayersExample extends Component {
             <div style={{flex:1, backgroundColor:"#282a30", marginTop:"10px"}}>
             <ul style={{color:"white"}}>
                 <li style={{marginTop:"10px"}}>The Covin19 data has been taken from Worldometers (sources: WHO, CDC, NHC, BBC, CDC Press Release, The Local France etc). </li>
-                <li style={{marginTop:"20px"}}>Hover on the data points to access country specific data</li>
+                <li style={{marginTop:"20px"}}>Click on the data points to access country specific data</li>
             </ul>
             </div>
             <div style={{flex:3}}>
