@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Suraj Singh",
+    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
+    "description": "Frontend Developer who has a passion towards web technologies and is willing to thrive in a fast- paced environment.",
+    "image": "suraj.jpeg",
+    "bio1": "My name is Suraj, I'm a Frontend ReactJS Developer and have fair knowledge in backend. Currently I'm working at Instarem as a frontend software engineer.",
+    "bio2": "Passionate about learning new things, building side projects, sharing my expriences and challenges faced in form of articles among the dev community members.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "surajt9755@gmail.com",
+    "phone": "+91 9892738734",
+    "address": {
+      "street": "",
+      "city": "Mumbai",
+      "state": "",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "/resume/cv.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/suraj-singh-3aaa32a1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Suraj975",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "MPSTME NMIMS",
+        "degree": "(MBATECH - dual degree) MBA in finance & Btech in computer Science",
+        "graduated": "January 2017",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Instarem",
+        "title": "Software Engineer",
+        "years": "October 2019 - Present",
+        "description":[
+          "Complete revamp of user onboarding and transaction flow designs of the site. This involved creating several reusable components that can be used on all other country corridors.",
+          "Improved performance and reduced frontend application size using react optimization techniques.",
+          "Implemented toggle feature to launch new designs for specific countries.",
+          "Implemented error handling capturing events on analytics tools like Google tag manager and Clevertap.",
+          "Worked on several features of a mobile app which is built on react native."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "img":"react.png",
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "img":"nextjs.png",
+        "name": "NextJs",
+        "level": "40%"
+      },
+      {
+        "img":"css.jpeg",
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "img":"html.png",
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "img":"nodejs.png",
+        "name": "NodeJS",
+        "level": "35%"
+      },
+      {
+        "img":"firebase.png",
+        "name": "Firebase",
+        "level": "60%"
+      },
+      {
+        "img":"MongoDB.jpg",
+        "name": "MongoDB",
+        "level": "35%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coding Note",
+        "category": "Coding note built with (Firebase, ReactJS,)",
+        "image": "coding-notes.png",
+        "url": "https://www.codingnotesonline.com/"
+      },
+      {
+        "title": "Corona Tracker",
+        "category": "Corona Tracker built with ReactJS",
+        "image": "corona-tracker.png",
+        "url": "https://corona-meter-dashboard.netlify.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix clone built with NextJS",
+        "image": "Netflix-clone.png",
+        "url": "https://netflix-clone-wheat.vercel.app/"
+      }
+    ],
+    "articles":[
+      {
+        "title": "Frontend Card Validation",
+        "category": "Front-end Card Validation (ReactJSs)",
+        "image": "cards-validation.png",
+        "url": "https://medium.com/@surajps975/complete-frontend-card-validations-reactjs-305f44c2805"
+      },
+      {
+        "title": "CKEditor Image Upload with Firebase and React",
+        "category": "ReactJS & Firebase",
+        "image": "firebase-react1.jpg",
+        "url": "https://dev.to/suraj975/ckeditor-image-upload-with-firebase-and-react-1pe8"
+      },
+      {
+        "title": "Monaco Vs CodeMirror",
+        "category": "ReactJS",
+        "image": "monaco.png",
+        "url": "https://dev.to/suraj975/monaco-vs-codemirror-in-react-5kf"
+      },
+      {
+        "title": "Cloud Firestore Nesting Update & Increment (WEB)",
+        "category": "Firebase & Flutter",
+        "image": "firebase5.png",
+        "url": "https://dev.to/suraj975/cloud-firestore-nesting-increment-web-2min"
+      },
+      {
+        "title": "Flutter Webview Google Sigin Issue (403)",
+        "category": "Flutter",
+        "image": "flutterLogo.png",
+        "url": "https://dev.to/suraj975/flutter-webview-google-sigin-issue-3j2h"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Suraj Singh must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
